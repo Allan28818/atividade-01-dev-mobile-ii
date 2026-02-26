@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarefa #1 Dev. Mobile II</string>
+    <string name="title">Sugestor de combustível</string>
+    <string name="gas_hint">Digite o preço da gasolina</string>
+    <string name="alcohol_hint">Digite o preço do álcool</string>
+    <string name="calculate_btn">Calcular</string>
+</resources>
